@@ -1,3 +1,6 @@
+
+## Its Not working with TT !
+
 Automatically accepts or declines Trade Broker negotiations. Settings can be configured by editing `tera-proxy/settings/auto-negotiate.json`.
 
 ## Settings
